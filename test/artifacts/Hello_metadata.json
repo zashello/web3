@@ -6,7 +6,13 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_id",
+						"type": "uint256"
+					}
+				],
 				"name": "say",
 				"outputs": [
 					{
@@ -24,6 +30,11 @@
 						"internalType": "string",
 						"name": "newh",
 						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_id",
+						"type": "uint256"
 					}
 				],
 				"name": "set",
@@ -60,11 +71,11 @@
 	},
 	"sources": {
 		"test/test.sol": {
-			"keccak256": "0xaff9a6c81b3ee8b3479b2cab09474536f0df6f6896b28071e1239d93b10c9ba5",
+			"keccak256": "0xa655ad78161db93dc2b285a5987a4e9a0f6b8f78ec8f18e7fbb9c351ec80587f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://326a8357b07dc59fe874132817f32d022d8286553f9fe5fdfb19f217e4bba995",
-				"dweb:/ipfs/QmVZcDqjwq6nDxKmEngDKfKLPjLS8fndJqtByGUNFfhFyv"
+				"bzz-raw://b091b4498357b3d3585dae6d1a68a3219f7c744ff460b6e6bf88089bce994729",
+				"dweb:/ipfs/QmRYaJRB8iyJvbNxPqKDnHjuQbSzLyqdScRaikJ39LHizC"
 			]
 		}
 	},
