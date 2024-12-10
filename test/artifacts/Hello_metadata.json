@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"test/test.sol": {
-			"keccak256": "0xec9496c2b0178f9103b908cb5afbfb7fe5b533be085cfceac30daf2b4cbaa76e",
+			"keccak256": "0xaff9a6c81b3ee8b3479b2cab09474536f0df6f6896b28071e1239d93b10c9ba5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3725cf36865d545abe5ca4a7665eb6679392d0957cc651b543882702ecb04069",
-				"dweb:/ipfs/QmSVK3PJwtUNt8xrKEVQHJwmp7hP21njNwbXeksoP9dsaD"
+				"bzz-raw://326a8357b07dc59fe874132817f32d022d8286553f9fe5fdfb19f217e4bba995",
+				"dweb:/ipfs/QmVZcDqjwq6nDxKmEngDKfKLPjLS8fndJqtByGUNFfhFyv"
 			]
 		}
 	},
