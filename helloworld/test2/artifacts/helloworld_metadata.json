@@ -17,6 +17,19 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "show",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -47,11 +60,11 @@
 	},
 	"sources": {
 		"helloworld/test2/test.sol": {
-			"keccak256": "0x30625c663e0e52f9e56c14041ecb70a811cacfe2e48dfc0862a3773869133aef",
+			"keccak256": "0x3f6c227a7b311c8e131c6c83e4a4d267f8e7721da77898ca7da339472e04e1b0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a1dd188ab9c49f5221f52f0668aec5ed3401c3b4bc573ecc5f77ec0e03c05ad0",
-				"dweb:/ipfs/QmabPGxuTtuF2GUFYrhrv9tUuUEsyXugaxt8Skc75e2s4L"
+				"bzz-raw://017e8c54b481c396b87ccd3c1ec0405d2c67aeaa775edda1bdb510c542d5daf4",
+				"dweb:/ipfs/QmVt12dN1Kzv5czD6DF4gmr1MGVQPzpZeNuVB4FJRVLW1q"
 			]
 		}
 	},
