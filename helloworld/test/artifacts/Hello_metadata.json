@@ -56,7 +56,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"test/test.sol": "Hello"
+			"helloworld/test/test.sol": "Hello"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -70,7 +70,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"test/test.sol": {
+		"helloworld/test/test.sol": {
 			"keccak256": "0xa655ad78161db93dc2b285a5987a4e9a0f6b8f78ec8f18e7fbb9c351ec80587f",
 			"license": "MIT",
 			"urls": [
