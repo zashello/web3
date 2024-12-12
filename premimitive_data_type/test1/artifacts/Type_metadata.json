@@ -95,6 +95,19 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "u3",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -125,11 +138,11 @@
 	},
 	"sources": {
 		"premimitive_data_type/test1/test.sol": {
-			"keccak256": "0x7f170de720a315b2809690c1aff95b31ad350502b947daab357e5a5cee864cd9",
+			"keccak256": "0x4746b6398f2fa0e95c69768e91b2856e4cfe31ea419a8a37f6680e1d60606832",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0bd5dd03827c22fc703892911e0a247e71e134e38c364a92e45e58aae612992a",
-				"dweb:/ipfs/QmZ86Hy8Gd6ScPGQnYgxtd7Wf62sYNXxci7eyjaqWe8HBP"
+				"bzz-raw://ea4f6e6f9ba9cf93948b95c20a9d465238c22ca95d154c45b9afa41f84cdb692",
+				"dweb:/ipfs/QmbumseVnw4xrVg84RpBpjfqPJM7B2mASTTp7GA9QPjvF7"
 			]
 		}
 	},
