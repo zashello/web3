@@ -18,6 +18,11 @@
 						"internalType": "address",
 						"name": "",
 						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
@@ -65,11 +70,11 @@
 	},
 	"sources": {
 		"variable/test/teat.sol": {
-			"keccak256": "0x0b38b0e7d04cbd273a0efa78cd49f980e1bf09f90c9e596994d1109e1ece4edd",
+			"keccak256": "0x3cb566cd345154b1700d12f94ec5a0e9746c4b7bc584b7a37c58c3a38134e4a7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9b2eeddeff78236431e82d93b7cb43869fdcc612c3b0936b3b781a1986ebf23b",
-				"dweb:/ipfs/QmQzAydoKTjpT4x3F5XgHgrEtwwU3dnaiXNtoYMsAXtHxX"
+				"bzz-raw://baee36742e0740c014d8f584cd7b0a7a3fab9ab2cd3cbd0a1805cc47bb643dfe",
+				"dweb:/ipfs/QmPx6hdA7XLeaspmzZTDhX7v9gKjeuNe2gi9HDg8vM2nJ3"
 			]
 		}
 	},
