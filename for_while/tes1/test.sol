@@ -9,4 +9,11 @@ contract add2 {
         }
         return numa;
     }
+    function ten() public pure returns (uint){
+        uint a;
+        while(a<10){
+            a++;
+        }
+        return a;
+    }
 }

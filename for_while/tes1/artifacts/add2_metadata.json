@@ -23,6 +23,19 @@
 				],
 				"stateMutability": "pure",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "ten",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -53,11 +66,11 @@
 	},
 	"sources": {
 		"for_while/tes1/test.sol": {
-			"keccak256": "0xc300d9eeaf9b7b99eef11b1b055c5fd06f3d7291bc15a0970d2466b8e9afc659",
+			"keccak256": "0x12a49b1c24161a94030d9886dc93a5caffb87cc32d598dd2a6bcece4e0d49069",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://699e1882aef68584ccceaa032af6f34ae6ad5c433e737497e5f13f041f925b76",
-				"dweb:/ipfs/Qmeo68PkML5R8B95sSviuKbskxd6zr3Un7a3yKuLKjZWUv"
+				"bzz-raw://8ba0a4e70c135c2e1f3c8e346354dea9c094a60d35e397f5b9b9d8fa66a27bd9",
+				"dweb:/ipfs/QmXpQF4cdAREgJ8v3Vk6eJz9aTv1P1Bv6GytsYSefuzEbB"
 			]
 		}
 	},
