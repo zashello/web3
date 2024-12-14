@@ -23,6 +23,25 @@
 				],
 				"stateMutability": "pure",
 				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "_numa",
+						"type": "int256"
+					}
+				],
+				"name": "checkin",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -53,11 +72,11 @@
 	},
 	"sources": {
 		"if_else/test1/test.sol": {
-			"keccak256": "0x9a49a6ccde447e7953e72518d18c801f381acd1f62b886418c84ee6708cef860",
+			"keccak256": "0x2f3b5826c6deed54837b67df5856f81e9788d13c17b43f1ef4e2f9a2b9ab8bb3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cc5e79dcd2cbeea30df631654550bc2feec54d18b3c6237296d31bd881cfef1c",
-				"dweb:/ipfs/QmQMRHVY9s1kaAEcZe93GiaCeP1MA3Hn1TgJabpfog1QBW"
+				"bzz-raw://9b1900a117f08d36910dc07e26b88e210199c3cf14e3f5b3f48edb635a4d7d0b",
+				"dweb:/ipfs/QmWqu4W24zbDTWP9PCQRLbDBXm6RpEkTKYfwwuDvoTCEsi"
 			]
 		}
 	},

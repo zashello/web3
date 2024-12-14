@@ -11,4 +11,7 @@ contract If {
             return numa;
         }
     }
+    function checkin(int _numa) public pure returns(uint){
+    return _numa < 0 ? 1 : 2;
+    }
 }
