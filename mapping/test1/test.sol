@@ -8,7 +8,7 @@ contract Mapping{
     function set(address _add,uint _numa) public {//将某addre设置映射为某值
         mymap[_add] = _numa;
     }
-    function del(address _add) public {//删除该映射值，
+    function del(address _add) public {//删除该地址对应的映射值，
         delete mymap[_add];
     }
 }
