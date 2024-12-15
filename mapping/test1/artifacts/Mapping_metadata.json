@@ -13,6 +13,19 @@
 						"type": "address"
 					}
 				],
+				"name": "del",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_add",
+						"type": "address"
+					}
+				],
 				"name": "get",
 				"outputs": [
 					{
@@ -90,11 +103,11 @@
 	},
 	"sources": {
 		"mapping/test1/test.sol": {
-			"keccak256": "0xd419c211ece1ee34f0728efde46348a215cb3ae9e55b9cf01a9e4699c52ec995",
+			"keccak256": "0x9484ff68a6684b31f62e2aa1633a60835d2483b1208ebbe98ea5c371e5ee77e2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e1a42895425ceee91aa04821939dd8835a22b5e72676e42da54a143a6d7dba1d",
-				"dweb:/ipfs/QmXi7TSEH8ogWQfP6DbwUBGBGEzVHaWL1FuzAFK1uRzfk9"
+				"bzz-raw://5dbfaa6e4c19c4b229a9d36fc770c6a05d1f8f1f7d44e795bf4c4b6ad93055d3",
+				"dweb:/ipfs/QmcimeegCpRA7YorMDE1Q58EFcQ7vTaFo7nbJKGXkEGKMw"
 			]
 		}
 	},
