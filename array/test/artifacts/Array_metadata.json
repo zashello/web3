@@ -63,6 +63,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "delarr",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "get",
 				"outputs": [
@@ -124,11 +137,11 @@
 	},
 	"sources": {
 		"array/test/test.sol": {
-			"keccak256": "0xc48a8ec6c310307c6a424d91e467d20e82c7adf61cc41abc011903ad9e116909",
+			"keccak256": "0xd488139091f41437509b60c34ce8f0c3a3ef86ea07e23b531e5fa26e4805cd50",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://70d3baa83b5dc8228be1c4c4f50431df80764e4799ee112b99f69e26395e75b3",
-				"dweb:/ipfs/QmQjPYXwQR5ocrYDqbRZYUxxnUFT75mujjnnkMhr59c2T1"
+				"bzz-raw://086f9d7de17cbb25075063d2435c0e25773bb6e0263c229e236f0381a51e378a",
+				"dweb:/ipfs/QmZKMUPk6r7wTn8PPrqmjHet1z4BGaDdapfbxBv2HkgrVK"
 			]
 		}
 	},
