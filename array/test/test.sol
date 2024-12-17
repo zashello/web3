@@ -15,5 +15,8 @@ contract Array {
     }
     function delarr(uint _index) public{
         delete arr1[_index]; //将指定其位置的值变回为初始值
+    } function create() public pure returns(uint[] memory){
+        uint[] memory a = new uint[](5);//创建含有5位的数组
+        return a;
     }
     }
